@@ -1,0 +1,102 @@
+TrackId  Name                                      AlbumId  MediaTypeId  GenreId   Composer                        Milliseconds  Bytes       UnitPrice
+-------  ----------------------------------------  -------  -----------  --------  ------------------------------  ------------  ----------  ---------
+2        Balls to the Wall                         2        2            1                                         342562        5510424     0.99     
+76       Canta, Canta Mais                         8        1            2                                         271856        8719426     0.99     
+143      The Begining... At Last                   14       1            3                                         365662        11965109    0.99     
+148      The Beginning...At Last                   15       1            3                                         271960        8975814     0.99     
+155      Warning                                   16       1            3                                         212062        6893363     0.99     
+182      Freedom Of Speech                         18       1            4                                         281234        9337917     0.99     
+225      Sozinho (Caêdrum 'n' Bass)               22       1            7                                         328071        10975007    0.99     
+528      Alegria, Alegria                          23       1            7                                         169221        5497025     0.99     
+281      Computadores Fazem Arte                   25       1            7                                         404323        13702771    0.99     
+322      Livre Pra Viver                           28       1            7                                         214595        7111596     0.99     
+373      Sao Lucas 2001                            32       1            10                                        296254        10020122    0.99     
+467      Best Thing                                38       1            2                                         274259        9069394     0.99     
+513      Ponto De Interrogação                   41       1            7                                         180950        5946265     0.99     
+596      A Rua                                     47       1            7                                         238027        7930264     0.99     
+645      Swedish Schnapps                          51       1            2                                         191268        6359750     0.99     
+660      Carta Ao Tom 74                           52       1            11                                        162560        5382354     0.99     
+674      Preciso Apender a Viver Só (Maysa)       53       1            7                                         143464        4642359     0.99     
+729      Juventude Transviada (Ao Vivo)            56       1            7                                         278622        9183808     0.99     
+744      Mis Penas Lloraba Yo (Ao Vivo) Soy Gitan  57       1            7                                         188473        6195854     0.99     
+841      Bringin' On The Heartbreak                67       1            1                                         272457        8853324     0.99     
+863      Um Amor Puro                              69       1            7                                         327784        10687311    0.99     
+890      Aprendendo A Jogar                        71       1            7                                         290664        9391041     0.99     
+948      Easy                                      75       1            4                                         185835        6073008     0.99     
+988      Desaforo                                  78       1            7                                         174524        5853561     0.99     
+1072     Forty Days Instrumental                   84       1            7                                         292493        9584317     0.99     
+1074     Baião Da Penha                           85       1            10                                        247928        8393047     0.99     
+1101     De Ouro E Marfim (Live)                   86       1            7                                         234971        7838453     0.99     
+1104     Pretinha                                  87       1            2                                         265273        8914579     0.99     
+1157     Rocket Queen                              90       2            1                                         375349        6185539     0.99     
+1173     Coma                                      91       2            1                                         616511        10201342    0.99     
+1211     Hallowed Be Thy Name (Live) [Non Album B  94       2            1                                         431262        7205816     0.99     
+1301     Acacia Avenue                             102      1            13                                        379872        9119118     0.99     
+1314     Fear Of The Dark                          103      1            1                                         431542        10361452    0.99     
+1324     Running Free                              104      1            1                                         474017        11380851    0.99     
+1352     Intro                                     108      1            3                                         115931        4638848     0.99     
+1502     Circles                                   121      2            1                                         209071        3548553     0.99     
+1519     Taj Mahal                                 122      1            7                                         289750        9502898     0.99     
+1531     Onibusfobia                               123      1            7                                         315977        10474904    0.99     
+1561     Tyrant (Live)                             125      1            3                                         282253        9190536     0.99     
+2228     Equal Rights Downpresser Man              141      1            8                                         366733        12086524    0.99     
+1743     Lá Vem O Sol (Here Comes The Sun)        142      1            7                                         189492        6229645     0.99     
+1744     O Último Romântico (Ao Vivo)            143      1            7                                         231993        7692697     0.99     
+1774     Get My Hands On Some Lovin'               146      1            14                                        149054        4860380     0.99     
+1800     No Sign of Yesterday                      147      1            1                                         362004        11829011    0.99     
+2029     Elza                                      165      1            1                                         199105        6517629     0.99     
+2043     Olodum - Smile (Instrumental)             166      1            7                                         235833        7871409     0.99     
+2092     SKA                                       169      1            7                                         148871        4943540     0.99     
+2253     Se Liga                                   184      1            17                                        410409        13559173    0.99     
+2357     Rock Das Aranhas (Ao Vivo) (Live)         192      1            1                                         231836        7591945     0.99     
+2433     The Way You Do To Mer                     198      1            1                                         618344        20028702    0.99     
+2638     Earth Mofo                                213      1            1                                         282200        9204581     0.99     
+2780     Formigueiro                               223      1            7                                         252943        8455132     0.99     
+2819     Battlestar Galactica: The Story So Far    226      3            18                                        2622250       490750393   1.99     
+2838     Crossroads, Pt. 2                         227      3            20                                        2869953       497335706   1.99     
+3223     How to Stop an Exploding Man              228      3            21                                        2687103       487881159   1.99     
+3252     Through the Looking Glass, Pt. 1          229      3            21                                        2610860       493211809   1.99     
+2925     Exodus (Part 3) [Season Finale]           230      3            19                                        2619869       197937785   1.99     
+2924     Live Together, Die Alone, Pt. 2           231      3            19                                        2656531       503619265   1.99     
+3051     Until My Dying Day                        241      1            8                                         235807        7886195     0.99     
+3131     Soneto Da Separacao                       247      1            7                                         193880        6277511     0.99     
+3177     Hot Girl                                  249      3            19                                        1325458       267836576   1.99     
+3199     Casino Night - Season Finale              250      3            19                                        1712791       327642458   1.99     
+3429     The Return                                251      3            22                                        1705080       343877320   1.99     
+3249     The Hand of God                           253      3            20                                        2924007       536583079   1.99     
+3250     Pilot                                     254      3            19                                        2484567       492670102   1.99     
+3275     Real Love                                 255      2            9                                         236911        3846658     0.99     
+3287     Paranoid                                  256      2            1                                         189171        3071042     0.99     
+3299     Send Me an Angel                          257      2            1                                         273041        4581492     0.99     
+3335     Freestyle Love                            259      1            15                                        318484        12741680    0.99     
+3336     War Pigs                                  260      4            23                                        234013        8052374     0.99     
+3364     There's No Place Like Home, Pt. 3         261      3            21                                        2582957       486161766   1.99     
+3374     All Night Thing                           269      2            23                                        231803        3997982     0.99     
+3402     Band Members Discuss Tracks from "Revela  271      3            23                                        294294        61118891    0.99     
+3444     Romeo et Juliette: No. 11 - Danse des Ch  310      2            24                                        275015        4519239     0.99     
+3452     SCRIABIN: Prelude in B Major, Op. 11, No  318      4            24                                        101293        3819535     0.99     
+3466     Rehab (Hot Chip Remix)                    321      2            14                                        418293        6670600     0.99     
+3470     I Heard Love Is Blind                     322      2            9                                         129666        2190831     0.99     
+3478     Slowness                                  323      2            23                                        215386        3644793     0.99     
+3481     A Midsummer Night's Dream, Op.61 Inciden  326      2            24                                        387826        6497867     0.99     
+3496     Étude 1, In C Major - Preludio (Presto)  340      4            24                                        51780         2229617     0.99     
+3497     Erlkonig, D.328                           341      2            24                                        261849        4307907     0.99     
+3499     Pini Di Roma (Pinien Von Rom) \ I Pini D  343      2            24                                        286741        4718950     0.99     
+2109     Paranoid                                  174      1            3         A. F. Iommi, W. Ward, T. Butle  176352        5729813     0.99     
+1908     New Rhumba                                157      1            2         A. Jamal                        276871        8980400     0.99     
+415      Astronomy                                 35       1            3         A.Bouchard/J.Bouchard/S.Pearlm  397531        13065612    0.99     
+2589     Hard To Handle                            210      1            6         A.Isbell/A.Jones/O.Redding      206994        6786304     0.99     
+22       Whole Lotta Rosie                         4        1            1         AC/DC                           323761        10547154    0.99     
+3427     Fanfare for the Common Man                296      2            24        Aaron Copland                   198064        3211245     0.99     
+3357     OAM's Blues                               267      5            2         Aaron Goldberg                  266936        4292028     0.99     
+453      Cold Gin                                  37       1            1         Ace Frehley                     262243        8609783     0.99     
+3159     Camarão que Dorme e Onda Leva            248      1            7         Acyi Marques/Arlindo Bruz/Bra�  299102        10012231    0.99     
+3158     Saudade Louca                             248      1            7         Acyr Marques/Arlindo Cruz/Fran  243591        8136475     0.99     
+567      Tradição                                45       1            7         Adalto Magalha/Lourenco         269165        9114880     0.99     
+2974     Yahweh                                    235      1            1         Adam Clayton, Bono, Larry Mull  262034        8636998     0.99     
+2948     Grace                                     233      1            1         Adam Clayton, Bono, Larry Mull  330657        10877148    0.99     
+1424     Hey America                               115      1            14        Addie William Jones/Nat Jones   218226        7187857     0.99     
+191      Machine Men                               19       1            3         Adrian Smith                    341655        11138147    0.99     
+1383     Stranger in a Strange Land                111      1            3         Adrian Smith                    344502        8270899     0.99     
+1221     2 Minutes To Midnight                     95       1            3         Adrian Smith/Bruce Dickinson    337423        5400576     0.99     
+1319     2 Minutes To Midnight                     104      1            1         Adrian Smith/Bruce Dickinson    338233        8122030     0.99     

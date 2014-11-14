@@ -1,0 +1,6 @@
+FirstName   LastName    Address                                   City        State    Country     PostalCo
+----------  ----------  ----------------------------------------  ----------  -------  ----------  --------
+Daan        Peeters     Grétrystraat 63                          Brussels             Belgium     1000    
+João       Fernandes   Rua da Assunção 53                      Lisbon               Portugal            
+Madalena    Sampaio     Rua dos Campeões Europeus de Viena, 435  Porto                Portugal            
+Ladislav    Kovács     Erzsébet krt. 58.                        Budapest             Hungary     H-1073  
